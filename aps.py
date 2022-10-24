@@ -1,5 +1,3 @@
-# Resultados
-
 def transpose(lista1, lista2):
     for lin in range(0, len(lista1[0])):
         lista2.append([])
